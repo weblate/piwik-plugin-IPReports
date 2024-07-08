@@ -1,1 +1,8 @@
-{}
+{
+    "IPReports": {
+        "IP": "Seoladh IP",
+        "IPs": "Seoltaí IP",
+        "WidgetIPTypes": "Úsáid IPv4 / IPv6",
+        "WidgetIPs": "Barr-Seoltaí IP"
+    }
+}
